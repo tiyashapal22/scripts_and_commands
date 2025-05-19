@@ -15,7 +15,7 @@ def download_file(url,token):
 
 
 ## The File location
-## Example : "https://api.github.com/repos/tiyashapal22/Python/contents/GitHub_Scripts/github_getting_file_content.md"
+## Example : "https://api.github.com/repos/tiyashapal22/Python/contents/GitHub_Scripts/test.md"
 url ="https://api.github.com/repos/{username}/{repo}/contents/{path}" 
 
 
