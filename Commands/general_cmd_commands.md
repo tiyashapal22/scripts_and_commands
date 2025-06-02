@@ -2,5 +2,5 @@
 
 | Query                               | Command      |   Example |
 |:------------------------------------|:-------------|----------:|
-| Checking IP Configuration - general | ipconfig     |       nan |
-| Checking IP Configuration - details | ipconfig/all |       nan |
+| Checking IP Configuration - general | ipconfig     |           |
+| Checking IP Configuration - details | ipconfig/all |           |
