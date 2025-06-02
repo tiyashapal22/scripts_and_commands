@@ -1,5 +1,6 @@
 # Database Cmd Commands
 
+**Note** : The Database Commands must be run under SQLPlus. 
 | Query                                       | Command                               |   Example                              |
 |:--------------------------------------------|:--------------------------------------|---------------------------------------:|
 | To Check if the pluggable Database is Mounted or Not  | Select name, open_mode from v$pdbs;   |                                        |
